@@ -12,3 +12,6 @@ SmartParking is an intelligent parking management system designed to optimize pa
 - Backend: C/C++
 - Frontend: CROW (to be implemented)
 - Database: MySQL, MongoSQL (to be implemented)
+
+## How to use it?
+- Initialize CMake and build the project using it.
